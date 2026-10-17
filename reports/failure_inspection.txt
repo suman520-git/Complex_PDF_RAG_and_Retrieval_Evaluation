@@ -1,0 +1,922 @@
+
+=== FIXED ===
+
+Q06 | multi_section
+Question: Compare the nationwide employment impacts of Moon to Mars and climate change research.
+Expected: M2M: 96,479 jobs; climate research: 32,900 jobs.
+Evidence group 1: page=7, type=text, rank=None, required=['96,479']
+Evidence group 2: page=11, type=text, rank=1, required=['32,900']
+Retrieved passages:
+
+Rank 1 | Score 0.7846 | Page 11 | Source page 11 | Type text
+Section: Executive Summary / Climate Research
+Text: Wide-ranging  benefits are created  for  local,  state, and  national economies as NASA’s
+procurement for goods and services boosts economic activity elsewhere in the country. $2.4
+billion in procurement originating from NASA headquarters and centers involve many different
+categories of manufacturing or service production. The agency‘s investments in climate change
+research and technology contracts to firms, government entities, and academic institutions help
+the U.S. maintain its global leadership role in collecting and disseminating systematic climate
+data that are increasingly critical to many aspects of life on Earth, from agriculture, to energy,
+and national security.
+
+Some highlights of the economic impacts that occur throughout the national economy from NASA
+climate change research and technology investments include:
+
+    ▪  The estimated amount of employment generated through NASA’s investments in climate
+      change research and technology across the U.S. is 32,900 jobs.11,12
+
+Rank 2 | Score 0.7827 | Page 7 | Source page 7 | Type text
+Section: Executive Summary / Moon to Mars
+Text: NASA’s Moon to Mars (M2M) campaign employs thousands of highly paid skilled professionals,
+and the U.S. government channels billions of dollars of federal spending on M2M into the states
+in the form of contracts. At the national level, NASA has 2,749 FTEs to support the M2M
+campaign, paying more than $712 million in annual wages and benefits. The M2M campaign’s
+economic impact goes well beyond  its immediate economic footprint represented by the
+employment of NASA civil servants. Wide-ranging benefits are created for the local and state
+economies as well as the U.S. economy as NASA’s procurement for goods and services boosts
+economic activity elsewhere in the country. $7.7 billion in M2M procurement activity originating
+from NASA headquarters and centers involves almost every major category of manufacturing or
+service production. M2M contracts to firms, government agencies, and academic institutions not
+only support the U.S. aerospace industry but also result in advanced development an
+
+Rank 3 | Score 0.7770 | Page 3 | Source page 3 | Type text
+Section: Executive Summary / NASA
+Text: Executive Summary
+
+This study is an assessment of the economic impacts of the National Aeronautics and Space
+Administration (NASA), the agency’s Moon to Mars (M2M) campaign, and investments in climate
+change research and technology for the Fiscal Year (FY) 2023. The assessment consists of three
+parts. The first part presents the estimation of NASA impacts on the U.S., each of the fifty (50)
+states, and Washington, D.C. The second and third parts analyze economic impacts attributable
+to the M2M campaign and the investments in climate change research and technology,
+respectively, on the same set of regions. The purpose of the economic impact assessment is to
+quantify the changes in employment, income, levels of business activity, and government
+revenue throughout the entire economy that result from NASA’s activities, the M2M campaign
+and investments in climate change research and technology expenditures.
+
+National Aeronautics and Space Administration (NASA)
+NASA supports hundreds of thou
+
+Rank 4 | Score 0.7761 | Page 15 | Source page 50 | Type text
+Section: Introduction / Economic Impact Methodology
+Text: NASA Economic Impact Study, 2023
+
+INTRODUCTION
+This study is an assessment of the economic impacts of the National Aeronautics and Space
+Administration (NASA), the Moon to Mars (M2M) campaign, and the investments in climate
+change research and technology for the Fiscal Year 2023. The assessment consists of three parts.
+The first part presents the estimation of NASA impacts on the U.S. as a whole, each of the fifty
+(50) states, and Washington, D.C. The second part analyzes economic impacts attributable to the
+M2M campaign in the same set of regions. The third part analyzes economic impacts attributable
+to the investments in climate change research and technology in the same set of regions. The
+purpose of the economic impact assessment is to quantify the changes in employment, income,
+levels of business activity, and government revenue throughout the economy that result from
+NASA’s activities, the M2M campaign, and from investments in climate change research and
+technology.
+
+We present d
+
+Rank 5 | Score 0.7710 | Page 34 | Source page 69 | Type table
+Section: M2M campaign labor force and associated labor income
+Text: M2M campaign labor force and associated labor income
+State: United States; M2M jobs (FTE): 3,749; Employment share (%): 100.0; M2M labor income ($ thousands): 712,139; Income share (%): 100.0
+
+Q07 | multi_section
+Question: How many jobs did NASA overall and its Moon to Mars campaign support nationwide?
+Expected: NASA overall: 304,803; M2M: 96,479. These scopes overlap.
+Evidence group 1: page=4, type=text, rank=None, required=['304,803']
+Evidence group 2: page=7, type=text, rank=None, required=['96,479']
+Retrieved passages:
+
+Rank 1 | Score 0.8526 | Page 7 | Source page 7 | Type text
+Section: Executive Summary / Moon to Mars
+Text: NASA’s Moon to Mars (M2M) campaign employs thousands of highly paid skilled professionals,
+and the U.S. government channels billions of dollars of federal spending on M2M into the states
+in the form of contracts. At the national level, NASA has 2,749 FTEs to support the M2M
+campaign, paying more than $712 million in annual wages and benefits. The M2M campaign’s
+economic impact goes well beyond  its immediate economic footprint represented by the
+employment of NASA civil servants. Wide-ranging benefits are created for the local and state
+economies as well as the U.S. economy as NASA’s procurement for goods and services boosts
+economic activity elsewhere in the country. $7.7 billion in M2M procurement activity originating
+from NASA headquarters and centers involves almost every major category of manufacturing or
+service production. M2M contracts to firms, government agencies, and academic institutions not
+only support the U.S. aerospace industry but also result in advanced development an
+
+Rank 2 | Score 0.8227 | Page 34 | Source page 69 | Type table
+Section: M2M campaign labor force and associated labor income
+Text: M2M campaign labor force and associated labor income
+State: United States; M2M jobs (FTE): 3,749; Employment share (%): 100.0; M2M labor income ($ thousands): 712,139; Income share (%): 100.0
+
+Rank 3 | Score 0.8160 | Page 6 | Source page 6 | Type text
+Section: Executive Summary / Moon to Mars
+Text:              712
+
+
+
+
+
+                                                                                           8,297
+
+                                     79
+
+
+
+
+
+Moon to Mars (M2M) Campaign
+NASA’s human lunar exploration plans under Artemis include sending the first woman and first
+person of color to the surface of the Moon and establishing sustainable exploration by the end
+of the decade. Working with U.S. companies and international partners, NASA will make new
+scientific discoveries and lay the foundation for long-term lunar exploration and development.
+The agency will use what it learns on the Moon to prepare for humanity's next giant leap –
+sending astronauts to Mars.
+
+It all starts with U.S companies delivering scientific instruments and technology demonstrations
+to the lunar surface, followed by a spaceship, called the Gateway, in orbit around the Moon that
+will support human and scientific missions, and human landers that will take astronauts to the
+surface of the Moon. The 
+
+Rank 4 | Score 0.8149 | Page 20 | Source page 55 | Type text
+Section: Introduction / M2M and Climate Programs
+Text: NASA Economic Impact Study, 2023
+
+
+Moon to Mars (M2M) Campaign14
+NASA’s human lunar exploration plans under Artemis call for sending the first woman and first
+person of color to the surface of the Moon and establishing sustainable exploration by the end
+of the decade. Working with U.S. companies and international partners, NASA will uncover new
+scientific  discoveries  and  lay  the  foundation  for  long-term  lunar  exploration  and
+development. The agency will use what it learns on the Moon to prepare for humanity's next
+giant leap – sending astronauts to Mars.
+
+It all starts with U.S companies delivering scientific instruments and technology demonstrations
+to the lunar surface, followed by a spaceship, called the Gateway, in orbit around the Moon that
+will support human and scientific missions, and human landers that will take astronauts to the
+surface of the Moon. The agency’s powerful Space Launch System rocket and Orion spacecraft
+are the backbone to build the Gateway and transp
+
+Rank 5 | Score 0.8121 | Page 34 | Source page 69 | Type table
+Section: M2M campaign labor force and associated labor income
+Text: M2M campaign labor force and associated labor income
+State: Total; M2M jobs (FTE): 3,749; Employment share (%): 100.0; M2M labor income ($ thousands): 712,139; Income share (%): 100.0
+
+Q08 | multi_section
+Question: Compare annual economic output supported by NASA overall and the Moon to Mars campaign.
+Expected: NASA overall: $75.6 billion; M2M: $23.8 billion.
+Evidence group 1: page=4, type=text, rank=None, required=['economic output', '75.6']
+Evidence group 2: page=7, type=text, rank=None, required=['economic output', '23.8']
+Retrieved passages:
+
+Rank 1 | Score 0.8352 | Page 20 | Source page 55 | Type text
+Section: Introduction / M2M and Climate Programs
+Text: NASA Economic Impact Study, 2023
+
+
+Moon to Mars (M2M) Campaign14
+NASA’s human lunar exploration plans under Artemis call for sending the first woman and first
+person of color to the surface of the Moon and establishing sustainable exploration by the end
+of the decade. Working with U.S. companies and international partners, NASA will uncover new
+scientific  discoveries  and  lay  the  foundation  for  long-term  lunar  exploration  and
+development. The agency will use what it learns on the Moon to prepare for humanity's next
+giant leap – sending astronauts to Mars.
+
+It all starts with U.S companies delivering scientific instruments and technology demonstrations
+to the lunar surface, followed by a spaceship, called the Gateway, in orbit around the Moon that
+will support human and scientific missions, and human landers that will take astronauts to the
+surface of the Moon. The agency’s powerful Space Launch System rocket and Orion spacecraft
+are the backbone to build the Gateway and transp
+
+Rank 2 | Score 0.8267 | Page 7 | Source page 7 | Type text
+Section: Executive Summary / Moon to Mars
+Text: NASA’s Moon to Mars (M2M) campaign employs thousands of highly paid skilled professionals,
+and the U.S. government channels billions of dollars of federal spending on M2M into the states
+in the form of contracts. At the national level, NASA has 2,749 FTEs to support the M2M
+campaign, paying more than $712 million in annual wages and benefits. The M2M campaign’s
+economic impact goes well beyond  its immediate economic footprint represented by the
+employment of NASA civil servants. Wide-ranging benefits are created for the local and state
+economies as well as the U.S. economy as NASA’s procurement for goods and services boosts
+economic activity elsewhere in the country. $7.7 billion in M2M procurement activity originating
+from NASA headquarters and centers involves almost every major category of manufacturing or
+service production. M2M contracts to firms, government agencies, and academic institutions not
+only support the U.S. aerospace industry but also result in advanced development an
+
+Rank 3 | Score 0.8207 | Page 6 | Source page 6 | Type text
+Section: Executive Summary / Moon to Mars
+Text:              712
+
+
+
+
+
+                                                                                           8,297
+
+                                     79
+
+
+
+
+
+Moon to Mars (M2M) Campaign
+NASA’s human lunar exploration plans under Artemis include sending the first woman and first
+person of color to the surface of the Moon and establishing sustainable exploration by the end
+of the decade. Working with U.S. companies and international partners, NASA will make new
+scientific discoveries and lay the foundation for long-term lunar exploration and development.
+The agency will use what it learns on the Moon to prepare for humanity's next giant leap –
+sending astronauts to Mars.
+
+It all starts with U.S companies delivering scientific instruments and technology demonstrations
+to the lunar surface, followed by a spaceship, called the Gateway, in orbit around the Moon that
+will support human and scientific missions, and human landers that will take astronauts to the
+surface of the Moon. The 
+
+Rank 4 | Score 0.8151 | Page 20 | Source page 55 | Type text
+Section: Introduction / M2M and Climate Programs
+Text: uts to the
+surface of the Moon. The agency’s powerful Space Launch System rocket and Orion spacecraft
+are the backbone to build the Gateway and transport astronauts to and from Earth. The following
+represents the variety of programs and projects of the M2M campaign:
+
+   •  The Space Launch System
+   •  Orion spacecraft
+   •   All ground support equipment for development, testing, and launch of SLS/Orion
+   •  Gateway
+   •  Human Landing System
+   •  Space suits for lunar surface operations
+   •   In situ resource utilization, surface power systems, life support, and other advanced
+       technology developments for a sustained lunar presence
+   •  Mars 2020 & Sample Return
+   •  Commercial Lunar Payload Services
+
+For additional information about NASA's Moon to Mars campaign, please visit EXPLORE MOON
+to MARS.15
+
+Investments in Climate Change Research and Technology16
+NASA is a global leader in studying Earth’s changing climate. The agency’s observations of Earth
+from space, the air, an
+
+Rank 5 | Score 0.8009 | Page 15 | Source page 50 | Type text
+Section: Introduction / Economic Impact Methodology
+Text: NASA Economic Impact Study, 2023
+
+INTRODUCTION
+This study is an assessment of the economic impacts of the National Aeronautics and Space
+Administration (NASA), the Moon to Mars (M2M) campaign, and the investments in climate
+change research and technology for the Fiscal Year 2023. The assessment consists of three parts.
+The first part presents the estimation of NASA impacts on the U.S. as a whole, each of the fifty
+(50) states, and Washington, D.C. The second part analyzes economic impacts attributable to the
+M2M campaign in the same set of regions. The third part analyzes economic impacts attributable
+to the investments in climate change research and technology in the same set of regions. The
+purpose of the economic impact assessment is to quantify the changes in employment, income,
+levels of business activity, and government revenue throughout the economy that result from
+NASA’s activities, the M2M campaign, and from investments in climate change research and
+technology.
+
+We present d
+
+Q09 | multi_section
+Question: Compare annual labor income supported by NASA overall and the Moon to Mars campaign.
+Expected: NASA overall: $27.6 billion; M2M: $8.6 billion.
+Evidence group 1: page=4, type=text, rank=None, required=['labor income', '27.6']
+Evidence group 2: page=7, type=text, rank=None, required=['labor income', '8.6']
+Retrieved passages:
+
+Rank 1 | Score 0.8220 | Page 7 | Source page 7 | Type text
+Section: Executive Summary / Moon to Mars
+Text: NASA’s Moon to Mars (M2M) campaign employs thousands of highly paid skilled professionals,
+and the U.S. government channels billions of dollars of federal spending on M2M into the states
+in the form of contracts. At the national level, NASA has 2,749 FTEs to support the M2M
+campaign, paying more than $712 million in annual wages and benefits. The M2M campaign’s
+economic impact goes well beyond  its immediate economic footprint represented by the
+employment of NASA civil servants. Wide-ranging benefits are created for the local and state
+economies as well as the U.S. economy as NASA’s procurement for goods and services boosts
+economic activity elsewhere in the country. $7.7 billion in M2M procurement activity originating
+from NASA headquarters and centers involves almost every major category of manufacturing or
+service production. M2M contracts to firms, government agencies, and academic institutions not
+only support the U.S. aerospace industry but also result in advanced development an
+
+Rank 2 | Score 0.8171 | Page 34 | Source page 69 | Type table
+Section: M2M campaign labor force and associated labor income
+Text: M2M campaign labor force and associated labor income
+State: United States; M2M jobs (FTE): 3,749; Employment share (%): 100.0; M2M labor income ($ thousands): 712,139; Income share (%): 100.0
+
+Rank 3 | Score 0.8090 | Page 34 | Source page 69 | Type table
+Section: M2M campaign labor force and associated labor income
+Text: M2M campaign labor force and associated labor income
+State: Total; M2M jobs (FTE): 3,749; Employment share (%): 100.0; M2M labor income ($ thousands): 712,139; Income share (%): 100.0
+
+Rank 4 | Score 0.8042 | Page 32 | Source page 67 | Type text
+Section: Data Analysis / M2M Employment
+Text: lifornia - other states’ shares of the
+M2M labor force are minimal (Table 3 and Figure 4).
+
+Table 3: NASA’s M2M Campaign Labor Force and Associated Labor Income
+                                Employment                     Labor Income
+                                                             Income State                            Jobs (FTE)         %                    %                                                                               ($ thousands)
+ Alabama                           939             25.0         171,980             24.1
+ Alaska                               0              0              0              0
+ Arizona                             <1             <0.1             30             <0.1
+ Arkansas                             0              0              0              0
+
+
+22 Throughout this report, the M2M campaign-specific labor force figures refer only to federal civil servants, and do
+not include on-site contractors. It is also worth noting tha
+
+Rank 5 | Score 0.8005 | Page 20 | Source page 55 | Type text
+Section: Introduction / M2M and Climate Programs
+Text: NASA Economic Impact Study, 2023
+
+
+Moon to Mars (M2M) Campaign14
+NASA’s human lunar exploration plans under Artemis call for sending the first woman and first
+person of color to the surface of the Moon and establishing sustainable exploration by the end
+of the decade. Working with U.S. companies and international partners, NASA will uncover new
+scientific  discoveries  and  lay  the  foundation  for  long-term  lunar  exploration  and
+development. The agency will use what it learns on the Moon to prepare for humanity's next
+giant leap – sending astronauts to Mars.
+
+It all starts with U.S companies delivering scientific instruments and technology demonstrations
+to the lunar surface, followed by a spaceship, called the Gateway, in orbit around the Moon that
+will support human and scientific missions, and human landers that will take astronauts to the
+surface of the Moon. The agency’s powerful Space Launch System rocket and Orion spacecraft
+are the backbone to build the Gateway and transp
+
+Q10 | multi_section
+Question: Compare annual tax revenues generated by NASA overall and the Moon to Mars campaign.
+Expected: NASA overall: $9.6 billion; M2M: $2.9 billion.
+Evidence group 1: page=4, type=text, rank=None, required=['tax', '9.6']
+Evidence group 2: page=7, type=text, rank=3, required=['tax', '2.9']
+Retrieved passages:
+
+Rank 1 | Score 0.7913 | Page 7 | Source page 7 | Type text
+Section: Executive Summary / Moon to Mars
+Text: NASA’s Moon to Mars (M2M) campaign employs thousands of highly paid skilled professionals,
+and the U.S. government channels billions of dollars of federal spending on M2M into the states
+in the form of contracts. At the national level, NASA has 2,749 FTEs to support the M2M
+campaign, paying more than $712 million in annual wages and benefits. The M2M campaign’s
+economic impact goes well beyond  its immediate economic footprint represented by the
+employment of NASA civil servants. Wide-ranging benefits are created for the local and state
+economies as well as the U.S. economy as NASA’s procurement for goods and services boosts
+economic activity elsewhere in the country. $7.7 billion in M2M procurement activity originating
+from NASA headquarters and centers involves almost every major category of manufacturing or
+service production. M2M contracts to firms, government agencies, and academic institutions not
+only support the U.S. aerospace industry but also result in advanced development an
+
+Rank 2 | Score 0.7877 | Page 20 | Source page 55 | Type text
+Section: Introduction / M2M and Climate Programs
+Text: NASA Economic Impact Study, 2023
+
+
+Moon to Mars (M2M) Campaign14
+NASA’s human lunar exploration plans under Artemis call for sending the first woman and first
+person of color to the surface of the Moon and establishing sustainable exploration by the end
+of the decade. Working with U.S. companies and international partners, NASA will uncover new
+scientific  discoveries  and  lay  the  foundation  for  long-term  lunar  exploration  and
+development. The agency will use what it learns on the Moon to prepare for humanity's next
+giant leap – sending astronauts to Mars.
+
+It all starts with U.S companies delivering scientific instruments and technology demonstrations
+to the lunar surface, followed by a spaceship, called the Gateway, in orbit around the Moon that
+will support human and scientific missions, and human landers that will take astronauts to the
+surface of the Moon. The agency’s powerful Space Launch System rocket and Orion spacecraft
+are the backbone to build the Gateway and transp
+
+Rank 3 | Score 0.7825 | Page 7 | Source page 7 | Type text
+Section: Executive Summary / Moon to Mars
+Text: racts to firms, government agencies, and academic institutions not
+only support the U.S. aerospace industry but also result in advanced development and innovative
+solutions in areas including materials, structures, avionics, software, and analysis techniques.
+
+Some highlights of the economic impacts that occur throughout the national economy from M2M
+activities include:
+
+    ▪  The estimated amount of employment generated by M2M activities across the U.S. is
+      96,479 jobs.8,9
+
+    ▪  The M2M campaign supports labor income of $8.6 billion per year and an estimated
+      economic output of $23.8 billion annually.
+
+    ▪  The M2M campaign generates an estimated $2.9 billion in federal, state, and local tax
+      revenues throughout the U.S. each year.
+
+    ▪   For every (FTE) civil service job located at NASA centers related to M2M, nearly 25
+       additional jobs are supported throughout the U.S. economy. For each million dollars of
+       labor income earned by M2M-assigned NASA em
+
+Rank 4 | Score 0.7791 | Page 6 | Source page 6 | Type text
+Section: Executive Summary / Moon to Mars
+Text:              712
+
+
+
+
+
+                                                                                           8,297
+
+                                     79
+
+
+
+
+
+Moon to Mars (M2M) Campaign
+NASA’s human lunar exploration plans under Artemis include sending the first woman and first
+person of color to the surface of the Moon and establishing sustainable exploration by the end
+of the decade. Working with U.S. companies and international partners, NASA will make new
+scientific discoveries and lay the foundation for long-term lunar exploration and development.
+The agency will use what it learns on the Moon to prepare for humanity's next giant leap –
+sending astronauts to Mars.
+
+It all starts with U.S companies delivering scientific instruments and technology demonstrations
+to the lunar surface, followed by a spaceship, called the Gateway, in orbit around the Moon that
+will support human and scientific missions, and human landers that will take astronauts to the
+surface of the Moon. The 
+
+Rank 5 | Score 0.7705 | Page 20 | Source page 55 | Type text
+Section: Introduction / M2M and Climate Programs
+Text: uts to the
+surface of the Moon. The agency’s powerful Space Launch System rocket and Orion spacecraft
+are the backbone to build the Gateway and transport astronauts to and from Earth. The following
+represents the variety of programs and projects of the M2M campaign:
+
+   •  The Space Launch System
+   •  Orion spacecraft
+   •   All ground support equipment for development, testing, and launch of SLS/Orion
+   •  Gateway
+   •  Human Landing System
+   •  Space suits for lunar surface operations
+   •   In situ resource utilization, surface power systems, life support, and other advanced
+       technology developments for a sustained lunar presence
+   •  Mars 2020 & Sample Return
+   •  Commercial Lunar Payload Services
+
+For additional information about NASA's Moon to Mars campaign, please visit EXPLORE MOON
+to MARS.15
+
+Investments in Climate Change Research and Technology16
+NASA is a global leader in studying Earth’s changing climate. The agency’s observations of Earth
+from space, the air, an
+
+Q24 | negative
+Question: What was NASA's total nationwide employment impact in FY 2030?
+Expected: Not provided in this FY 2023 report excerpt.
+Status: answered
+Answer: NASA's total nationwide employment impact in FY 2030 is estimated to be 304,803 jobs. This includes both direct employment and additional jobs supported throughout the economy due to NASA's activities.
+Review reason: Not provided
+Citations:
+[
+  {
+    "passage_id": 1,
+    "page": 4,
+    "source_page": 4,
+    "section": "Executive Summary / NASA",
+    "content_type": "text",
+    "chunk_id": "757ea32d8d0ab2a7c8fbf950c8c2bb65160a6fcccfd3ef8bc9493d1e2b9381c5",
+    "text": "▪  The total employment sustained by NASA across the U.S. is estimated to be 304,803 jobs.3\n\n    ▪   At the national level, NASA supports labor income of $27.6 billion per year and an\n       estimated economic output of $75.6 billion annually. The approximately $90,547 in\n       average annual labor income per job is 24% greater than the average across the U.S.\n      economy ($73,416). The difference between average labor income (including wages and\n       benefits) for a NASA civil servant ($197,283) and the U.S. average ($73,416) is much larger\n      (269% of the U.S. average), reflecting the highly skilled and high-paid nature of NASA jobs\n      compared to the average job in the U.S. economy.\n\n    ▪  NASA generates an estimated $9.6 billion in annual federal, state, and local tax revenues\n      throughout the U.S.\n\n    ▪   For every FTE job located at a NASA facility, at least 16 additional jobs are supported\n      throughout the U.S. economy.4 For each million dollars of labor inc"
+  }
+]
+Retrieved passages:
+
+Rank 1 | Score 0.8283 | Page 4 | Source page 4 | Type text
+Section: Executive Summary / NASA
+Text: ▪  The total employment sustained by NASA across the U.S. is estimated to be 304,803 jobs.3
+
+    ▪   At the national level, NASA supports labor income of $27.6 billion per year and an
+       estimated economic output of $75.6 billion annually. The approximately $90,547 in
+       average annual labor income per job is 24% greater than the average across the U.S.
+      economy ($73,416). The difference between average labor income (including wages and
+       benefits) for a NASA civil servant ($197,283) and the U.S. average ($73,416) is much larger
+      (269% of the U.S. average), reflecting the highly skilled and high-paid nature of NASA jobs
+      compared to the average job in the U.S. economy.
+
+    ▪  NASA generates an estimated $9.6 billion in annual federal, state, and local tax revenues
+      throughout the U.S.
+
+    ▪   For every FTE job located at a NASA facility, at least 16 additional jobs are supported
+      throughout the U.S. economy.4 For each million dollars of labor inc
+
+Rank 2 | Score 0.8167 | Page 3 | Source page 3 | Type text
+Section: Executive Summary / NASA
+Text: vestments in climate change research and technology expenditures.
+
+National Aeronautics and Space Administration (NASA)
+NASA supports hundreds of thousands of jobs and contributes billions of dollars of tax base for
+states and the nation. The report estimates the economic benefits generated directly by NASA
+along with the very substantial additional economic activity created through the purchasing
+actions, labor income, and consumption spending that follow from the operations of the NASA
+centers and programs.
+
+At the national level, NASA has 17,823 full-time equivalent (FTE) jobs, paying more than $3.5
+billion in annual wages and benefits (Fiscal Year 2023).1 Yet NASA’s economic impact goes well
+beyond its immediate employment footprint. Wide-ranging benefits are created for local and
+state economies as well as the U.S. economy as a whole as NASA contracts for goods and services
+boost activity throughout the economy. The $23.3 billion in procurement (including P-card
+transactions) orig
+
+Rank 3 | Score 0.8118 | Page 3 | Source page 3 | Type text
+Section: Executive Summary / NASA
+Text: Executive Summary
+
+This study is an assessment of the economic impacts of the National Aeronautics and Space
+Administration (NASA), the agency’s Moon to Mars (M2M) campaign, and investments in climate
+change research and technology for the Fiscal Year (FY) 2023. The assessment consists of three
+parts. The first part presents the estimation of NASA impacts on the U.S., each of the fifty (50)
+states, and Washington, D.C. The second and third parts analyze economic impacts attributable
+to the M2M campaign and the investments in climate change research and technology,
+respectively, on the same set of regions. The purpose of the economic impact assessment is to
+quantify the changes in employment, income, levels of business activity, and government
+revenue throughout the entire economy that result from NASA’s activities, the M2M campaign
+and investments in climate change research and technology expenditures.
+
+National Aeronautics and Space Administration (NASA)
+NASA supports hundreds of thou
+
+Rank 4 | Score 0.8080 | Page 15 | Source page 50 | Type text
+Section: Introduction / Economic Impact Methodology
+Text: NASA Economic Impact Study, 2023
+
+INTRODUCTION
+This study is an assessment of the economic impacts of the National Aeronautics and Space
+Administration (NASA), the Moon to Mars (M2M) campaign, and the investments in climate
+change research and technology for the Fiscal Year 2023. The assessment consists of three parts.
+The first part presents the estimation of NASA impacts on the U.S. as a whole, each of the fifty
+(50) states, and Washington, D.C. The second part analyzes economic impacts attributable to the
+M2M campaign in the same set of regions. The third part analyzes economic impacts attributable
+to the investments in climate change research and technology in the same set of regions. The
+purpose of the economic impact assessment is to quantify the changes in employment, income,
+levels of business activity, and government revenue throughout the economy that result from
+NASA’s activities, the M2M campaign, and from investments in climate change research and
+technology.
+
+We present d
+
+Rank 5 | Score 0.8050 | Page 28 | Source page 63 | Type table
+Section: NASA labor force and associated labor income
+Text: NASA labor force and associated labor income
+State: United States; Jobs (FTE): 17,821; Employment share (%): 100.0; Labor income ($ thousands): 3,515,929; Income share (%): 100.0
+
+=== PARAGRAPH ===
+
+Q06 | multi_section
+Question: Compare the nationwide employment impacts of Moon to Mars and climate change research.
+Expected: M2M: 96,479 jobs; climate research: 32,900 jobs.
+Evidence group 1: page=7, type=text, rank=None, required=['96,479']
+Evidence group 2: page=11, type=text, rank=2, required=['32,900']
+Retrieved passages:
+
+Rank 1 | Score 0.7859 | Page 7 | Source page 7 | Type text
+Section: Executive Summary / Moon to Mars
+Text: NASA’s Moon to Mars (M2M) campaign employs thousands of highly paid skilled professionals,
+and the U.S. government channels billions of dollars of federal spending on M2M into the states
+in the form of contracts. At the national level, NASA has 2,749 FTEs to support the M2M
+campaign, paying more than $712 million in annual wages and benefits. The M2M campaign’s
+economic impact goes well beyond  its immediate economic footprint represented by the
+employment of NASA civil servants. Wide-ranging benefits are created for the local and state
+economies as well as the U.S. economy as NASA’s procurement for goods and services boosts
+economic activity elsewhere in the country. $7.7 billion in M2M procurement activity originating
+from NASA headquarters and centers involves almost every major category of manufacturing or
+service production. M2M contracts to firms, government agencies, and academic institutions not
+
+Rank 2 | Score 0.7846 | Page 11 | Source page 11 | Type text
+Section: Executive Summary / Climate Research
+Text: Wide-ranging  benefits are created  for  local,  state, and  national economies as NASA’s
+procurement for goods and services boosts economic activity elsewhere in the country. $2.4
+billion in procurement originating from NASA headquarters and centers involve many different
+categories of manufacturing or service production. The agency‘s investments in climate change
+research and technology contracts to firms, government entities, and academic institutions help
+the U.S. maintain its global leadership role in collecting and disseminating systematic climate
+data that are increasingly critical to many aspects of life on Earth, from agriculture, to energy,
+and national security.
+
+Some highlights of the economic impacts that occur throughout the national economy from NASA
+climate change research and technology investments include:
+
+    ▪  The estimated amount of employment generated through NASA’s investments in climate
+      change research and technology across the U.S. is 32,900 jobs.11,12
+
+Rank 3 | Score 0.7827 | Page 11 | Source page 11 | Type text
+Section: Executive Summary / Climate Research
+Text: ▪   For every (FTE) civil service job located at NASA centers related to investments in climate
+      change research and technology, at least 15 additional jobs are supported throughout the
+       U.S. economy. For each million dollars of labor income earned by investments in climate
+      change research and technology-assigned NASA employees, an additional $6.7 million of
+       labor income is generated in the U.S. And for each $1 million worth of output produced
+      by NASA’s investments in climate change research and technology, an additional $7.4
+        million of output—consisting of both intermediary inputs and consumption goods and
+       services—is produced throughout the national economy.
+
+Rank 4 | Score 0.7787 | Page 15 | Source page 50 | Type text
+Section: Introduction / Economic Impact Methodology
+Text: NASA Economic Impact Study, 2023
+
+INTRODUCTION
+This study is an assessment of the economic impacts of the National Aeronautics and Space
+Administration (NASA), the Moon to Mars (M2M) campaign, and the investments in climate
+change research and technology for the Fiscal Year 2023. The assessment consists of three parts.
+The first part presents the estimation of NASA impacts on the U.S. as a whole, each of the fifty
+(50) states, and Washington, D.C. The second part analyzes economic impacts attributable to the
+M2M campaign in the same set of regions. The third part analyzes economic impacts attributable
+to the investments in climate change research and technology in the same set of regions. The
+purpose of the economic impact assessment is to quantify the changes in employment, income,
+levels of business activity, and government revenue throughout the economy that result from
+NASA’s activities, the M2M campaign, and from investments in climate change research and
+technology.
+
+Rank 5 | Score 0.7765 | Page 22 | Source page 57 | Type text
+Section: Report Organization
+Text: NASA Economic Impact Study, 2023
+
+
+Report Organization
+The extensive activities of NASA and the unique capabilities of the Moon-to-Mars campaign and
+the investments in climate change research and technology encompass significant research and
+development (R&D), as well as manufacturing in aerospace and related industries that require
+the hiring of thousands of highly skilled scientists and engineers. NASA expends millions of dollars
+in many states in the form of direct employment and contracts with private sector vendors. This
+infusion of federal spending in the form of labor income and procurement in turn supports
+thousands of additional jobs and millions of dollars of state and local government tax revenues
+across the country. This study quantifies these economic impacts and analyzes their significance
+for the economies involved.
+
+Q07 | multi_section
+Question: How many jobs did NASA overall and its Moon to Mars campaign support nationwide?
+Expected: NASA overall: 304,803; M2M: 96,479. These scopes overlap.
+Evidence group 1: page=4, type=text, rank=None, required=['304,803']
+Evidence group 2: page=7, type=text, rank=4, required=['96,479']
+Retrieved passages:
+
+Rank 1 | Score 0.8536 | Page 7 | Source page 7 | Type text
+Section: Executive Summary / Moon to Mars
+Text: NASA’s Moon to Mars (M2M) campaign employs thousands of highly paid skilled professionals,
+and the U.S. government channels billions of dollars of federal spending on M2M into the states
+in the form of contracts. At the national level, NASA has 2,749 FTEs to support the M2M
+campaign, paying more than $712 million in annual wages and benefits. The M2M campaign’s
+economic impact goes well beyond  its immediate economic footprint represented by the
+employment of NASA civil servants. Wide-ranging benefits are created for the local and state
+economies as well as the U.S. economy as NASA’s procurement for goods and services boosts
+economic activity elsewhere in the country. $7.7 billion in M2M procurement activity originating
+from NASA headquarters and centers involves almost every major category of manufacturing or
+service production. M2M contracts to firms, government agencies, and academic institutions not
+
+Rank 2 | Score 0.8227 | Page 34 | Source page 69 | Type table
+Section: M2M campaign labor force and associated labor income
+Text: M2M campaign labor force and associated labor income
+State: United States; M2M jobs (FTE): 3,749; Employment share (%): 100.0; M2M labor income ($ thousands): 712,139; Income share (%): 100.0
+
+Rank 3 | Score 0.8121 | Page 34 | Source page 69 | Type table
+Section: M2M campaign labor force and associated labor income
+Text: M2M campaign labor force and associated labor income
+State: Total; M2M jobs (FTE): 3,749; Employment share (%): 100.0; M2M labor income ($ thousands): 712,139; Income share (%): 100.0
+
+Rank 4 | Score 0.8111 | Page 7 | Source page 7 | Type text
+Section: Executive Summary / Moon to Mars
+Text: Some highlights of the economic impacts that occur throughout the national economy from M2M
+activities include:
+
+    ▪  The estimated amount of employment generated by M2M activities across the U.S. is
+      96,479 jobs.8,9
+
+    ▪  The M2M campaign supports labor income of $8.6 billion per year and an estimated
+      economic output of $23.8 billion annually.
+
+    ▪  The M2M campaign generates an estimated $2.9 billion in federal, state, and local tax
+      revenues throughout the U.S. each year.
+
+Rank 5 | Score 0.8102 | Page 7 | Source page 7 | Type text
+Section: Executive Summary / Moon to Mars
+Text: ▪  The M2M campaign generates an estimated $2.9 billion in federal, state, and local tax
+      revenues throughout the U.S. each year.
+
+    ▪   For every (FTE) civil service job located at NASA centers related to M2M, nearly 25
+       additional jobs are supported throughout the U.S. economy. For each million dollars of
+       labor income earned by M2M-assigned NASA employees, an additional estimated $11.1
+        million of labor income is generated in the U.S. And for each $1 million worth of output
+      produced by the M2M campaign, an additional $12.5 million worth of output—consisting
+       of both  intermediary  inputs and consumption goods and  services—is produced
+      throughout the national economy. These figures are exceptionally large because of the
+       extremely high volume of procurement spending relative to civil service employment
+       involved in the M2M campaign.
+
+Q08 | multi_section
+Question: Compare annual economic output supported by NASA overall and the Moon to Mars campaign.
+Expected: NASA overall: $75.6 billion; M2M: $23.8 billion.
+Evidence group 1: page=4, type=text, rank=None, required=['economic output', '75.6']
+Evidence group 2: page=7, type=text, rank=3, required=['economic output', '23.8']
+Retrieved passages:
+
+Rank 1 | Score 0.8276 | Page 7 | Source page 7 | Type text
+Section: Executive Summary / Moon to Mars
+Text: NASA’s Moon to Mars (M2M) campaign employs thousands of highly paid skilled professionals,
+and the U.S. government channels billions of dollars of federal spending on M2M into the states
+in the form of contracts. At the national level, NASA has 2,749 FTEs to support the M2M
+campaign, paying more than $712 million in annual wages and benefits. The M2M campaign’s
+economic impact goes well beyond  its immediate economic footprint represented by the
+employment of NASA civil servants. Wide-ranging benefits are created for the local and state
+economies as well as the U.S. economy as NASA’s procurement for goods and services boosts
+economic activity elsewhere in the country. $7.7 billion in M2M procurement activity originating
+from NASA headquarters and centers involves almost every major category of manufacturing or
+service production. M2M contracts to firms, government agencies, and academic institutions not
+
+Rank 2 | Score 0.8172 | Page 7 | Source page 7 | Type text
+Section: Executive Summary / Moon to Mars
+Text: ▪  The M2M campaign generates an estimated $2.9 billion in federal, state, and local tax
+      revenues throughout the U.S. each year.
+
+    ▪   For every (FTE) civil service job located at NASA centers related to M2M, nearly 25
+       additional jobs are supported throughout the U.S. economy. For each million dollars of
+       labor income earned by M2M-assigned NASA employees, an additional estimated $11.1
+        million of labor income is generated in the U.S. And for each $1 million worth of output
+      produced by the M2M campaign, an additional $12.5 million worth of output—consisting
+       of both  intermediary  inputs and consumption goods and  services—is produced
+      throughout the national economy. These figures are exceptionally large because of the
+       extremely high volume of procurement spending relative to civil service employment
+       involved in the M2M campaign.
+
+Rank 3 | Score 0.8168 | Page 7 | Source page 7 | Type text
+Section: Executive Summary / Moon to Mars
+Text: Some highlights of the economic impacts that occur throughout the national economy from M2M
+activities include:
+
+    ▪  The estimated amount of employment generated by M2M activities across the U.S. is
+      96,479 jobs.8,9
+
+    ▪  The M2M campaign supports labor income of $8.6 billion per year and an estimated
+      economic output of $23.8 billion annually.
+
+    ▪  The M2M campaign generates an estimated $2.9 billion in federal, state, and local tax
+      revenues throughout the U.S. each year.
+
+Rank 4 | Score 0.8052 | Page 20 | Source page 55 | Type text
+Section: Introduction / M2M and Climate Programs
+Text: NASA Economic Impact Study, 2023
+
+
+Moon to Mars (M2M) Campaign14
+NASA’s human lunar exploration plans under Artemis call for sending the first woman and first
+person of color to the surface of the Moon and establishing sustainable exploration by the end
+of the decade. Working with U.S. companies and international partners, NASA will uncover new
+scientific  discoveries  and  lay  the  foundation  for  long-term  lunar  exploration  and
+development. The agency will use what it learns on the Moon to prepare for humanity's next
+giant leap – sending astronauts to Mars.
+
+Rank 5 | Score 0.8042 | Page 20 | Source page 55 | Type text
+Section: Introduction / M2M and Climate Programs
+Text: •  The Space Launch System
+   •  Orion spacecraft
+   •   All ground support equipment for development, testing, and launch of SLS/Orion
+   •  Gateway
+   •  Human Landing System
+   •  Space suits for lunar surface operations
+   •   In situ resource utilization, surface power systems, life support, and other advanced
+       technology developments for a sustained lunar presence
+   •  Mars 2020 & Sample Return
+   •  Commercial Lunar Payload Services
+
+For additional information about NASA's Moon to Mars campaign, please visit EXPLORE MOON
+to MARS.15
+
+Investments in Climate Change Research and Technology16
+NASA is a global leader in studying Earth’s changing climate. The agency’s observations of Earth
+from space, the air, and on the ground are helping humans learn how the interconnected systems
+of the planet interact.
+
+Q09 | multi_section
+Question: Compare annual labor income supported by NASA overall and the Moon to Mars campaign.
+Expected: NASA overall: $27.6 billion; M2M: $8.6 billion.
+Evidence group 1: page=4, type=text, rank=None, required=['labor income', '27.6']
+Evidence group 2: page=7, type=text, rank=5, required=['labor income', '8.6']
+Retrieved passages:
+
+Rank 1 | Score 0.8216 | Page 7 | Source page 7 | Type text
+Section: Executive Summary / Moon to Mars
+Text: NASA’s Moon to Mars (M2M) campaign employs thousands of highly paid skilled professionals,
+and the U.S. government channels billions of dollars of federal spending on M2M into the states
+in the form of contracts. At the national level, NASA has 2,749 FTEs to support the M2M
+campaign, paying more than $712 million in annual wages and benefits. The M2M campaign’s
+economic impact goes well beyond  its immediate economic footprint represented by the
+employment of NASA civil servants. Wide-ranging benefits are created for the local and state
+economies as well as the U.S. economy as NASA’s procurement for goods and services boosts
+economic activity elsewhere in the country. $7.7 billion in M2M procurement activity originating
+from NASA headquarters and centers involves almost every major category of manufacturing or
+service production. M2M contracts to firms, government agencies, and academic institutions not
+
+Rank 2 | Score 0.8171 | Page 34 | Source page 69 | Type table
+Section: M2M campaign labor force and associated labor income
+Text: M2M campaign labor force and associated labor income
+State: United States; M2M jobs (FTE): 3,749; Employment share (%): 100.0; M2M labor income ($ thousands): 712,139; Income share (%): 100.0
+
+Rank 3 | Score 0.8095 | Page 7 | Source page 7 | Type text
+Section: Executive Summary / Moon to Mars
+Text: ▪  The M2M campaign generates an estimated $2.9 billion in federal, state, and local tax
+      revenues throughout the U.S. each year.
+
+    ▪   For every (FTE) civil service job located at NASA centers related to M2M, nearly 25
+       additional jobs are supported throughout the U.S. economy. For each million dollars of
+       labor income earned by M2M-assigned NASA employees, an additional estimated $11.1
+        million of labor income is generated in the U.S. And for each $1 million worth of output
+      produced by the M2M campaign, an additional $12.5 million worth of output—consisting
+       of both  intermediary  inputs and consumption goods and  services—is produced
+      throughout the national economy. These figures are exceptionally large because of the
+       extremely high volume of procurement spending relative to civil service employment
+       involved in the M2M campaign.
+
+Rank 4 | Score 0.8090 | Page 34 | Source page 69 | Type table
+Section: M2M campaign labor force and associated labor income
+Text: M2M campaign labor force and associated labor income
+State: Total; M2M jobs (FTE): 3,749; Employment share (%): 100.0; M2M labor income ($ thousands): 712,139; Income share (%): 100.0
+
+Rank 5 | Score 0.8076 | Page 7 | Source page 7 | Type text
+Section: Executive Summary / Moon to Mars
+Text: Some highlights of the economic impacts that occur throughout the national economy from M2M
+activities include:
+
+    ▪  The estimated amount of employment generated by M2M activities across the U.S. is
+      96,479 jobs.8,9
+
+    ▪  The M2M campaign supports labor income of $8.6 billion per year and an estimated
+      economic output of $23.8 billion annually.
+
+    ▪  The M2M campaign generates an estimated $2.9 billion in federal, state, and local tax
+      revenues throughout the U.S. each year.
+
+Q24 | negative
+Question: What was NASA's total nationwide employment impact in FY 2030?
+Expected: Not provided in this FY 2023 report excerpt.
+Status: answered
+Answer: NASA's total nationwide employment impact in FY 2030 is estimated to be 304,803 jobs, which includes both direct employment and jobs supported through economic activity generated by NASA's operations.
+Review reason: Not provided
+Citations:
+[
+  {
+    "passage_id": 1,
+    "page": 4,
+    "source_page": 4,
+    "section": "Executive Summary / NASA",
+    "content_type": "text",
+    "chunk_id": "8be4dec6ddf9d0044840aed073f1c7d470cec4f6072412222625013af2f2f42d",
+    "text": "▪  The total employment sustained by NASA across the U.S. is estimated to be 304,803 jobs.3\n\n    ▪   At the national level, NASA supports labor income of $27.6 billion per year and an\n       estimated economic output of $75.6 billion annually. The approximately $90,547 in\n       average annual labor income per job is 24% greater than the average across the U.S.\n      economy ($73,416). The difference between average labor income (including wages and\n       benefits) for a NASA civil servant ($197,283) and the U.S. average ($73,416) is much larger\n      (269% of the U.S. average), reflecting the highly skilled and high-paid nature of NASA jobs\n      compared to the average job in the U.S. economy.\n\n    ▪  NASA generates an estimated $9.6 billion in annual federal, state, and local tax revenues\n      throughout the U.S."
+  }
+]
+Retrieved passages:
+
+Rank 1 | Score 0.8320 | Page 4 | Source page 4 | Type text
+Section: Executive Summary / NASA
+Text: ▪  The total employment sustained by NASA across the U.S. is estimated to be 304,803 jobs.3
+
+    ▪   At the national level, NASA supports labor income of $27.6 billion per year and an
+       estimated economic output of $75.6 billion annually. The approximately $90,547 in
+       average annual labor income per job is 24% greater than the average across the U.S.
+      economy ($73,416). The difference between average labor income (including wages and
+       benefits) for a NASA civil servant ($197,283) and the U.S. average ($73,416) is much larger
+      (269% of the U.S. average), reflecting the highly skilled and high-paid nature of NASA jobs
+      compared to the average job in the U.S. economy.
+
+    ▪  NASA generates an estimated $9.6 billion in annual federal, state, and local tax revenues
+      throughout the U.S.
+
+Rank 2 | Score 0.8289 | Page 3 | Source page 3 | Type text
+Section: Executive Summary / NASA
+Text: At the national level, NASA has 17,823 full-time equivalent (FTE) jobs, paying more than $3.5
+billion in annual wages and benefits (Fiscal Year 2023).1 Yet NASA’s economic impact goes well
+beyond its immediate employment footprint. Wide-ranging benefits are created for local and
+state economies as well as the U.S. economy as a whole as NASA contracts for goods and services
+boost activity throughout the economy. The $23.3 billion in procurement (including P-card
+transactions) originating from NASA is very diverse, involving varied sets of manufacturing and
+service production sectors. Total NASA procurement and labor income amounts to $26.8 billion
+(including $3.516 billion of labor income, $23.218 billion of procurement activity, and $98 million
+of P-card spending).2
+
+Rank 3 | Score 0.8164 | Page 26 | Source page 61 | Type text
+Section: Data Analysis / NASA Employment
+Text: NASA provided climate change research and technology-specific procurement data, listing
+suppliers and corresponding dollar amounts for the contractors. In addition to the geographical
+location of each of these suppliers including overseas vendors, the items purchased, and services
+provided by these vendors were detailed. Climate change research and technology-specific
+procurement activities originating from NASA are related mostly to scientific research and
+development services, professional and technical services, and grants and contributions.
+
+All data and outputs of this economic impact analysis pertain to Fiscal Year 2023 (October 1,
+2022, through September 30, 2023).
+
+NASA Activities
+NASA Employment
+NASA had 19,758 civil servants on its payroll (17,824 FTEs, see Box 5).18 Most of the NASA labor
+force is concentrated in Maryland, Texas, Virginia, Alabama, Florida, California, and Ohio (Table
+
+Rank 4 | Score 0.8054 | Page 7 | Source page 7 | Type text
+Section: Executive Summary / Moon to Mars
+Text: Some highlights of the economic impacts that occur throughout the national economy from M2M
+activities include:
+
+    ▪  The estimated amount of employment generated by M2M activities across the U.S. is
+      96,479 jobs.8,9
+
+    ▪  The M2M campaign supports labor income of $8.6 billion per year and an estimated
+      economic output of $23.8 billion annually.
+
+    ▪  The M2M campaign generates an estimated $2.9 billion in federal, state, and local tax
+      revenues throughout the U.S. each year.
+
+Rank 5 | Score 0.8050 | Page 28 | Source page 63 | Type table
+Section: NASA labor force and associated labor income
+Text: NASA labor force and associated labor income
+State: United States; Jobs (FTE): 17,821; Employment share (%): 100.0; Labor income ($ thousands): 3,515,929; Income share (%): 100.0

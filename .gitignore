@@ -1,0 +1,15 @@
+# Private configuration
+.env
+.env.*
+!.env.example
+
+# Python environment and generated files
+venv/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Generated processing results
+artifacts/
+
